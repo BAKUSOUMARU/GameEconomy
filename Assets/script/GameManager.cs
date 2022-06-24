@@ -6,7 +6,10 @@ public class GameManager : MonoBehaviour
 {
     public int _addMoney = 1;
 
+    public int selladomoney = 10;
+
     public int _money = 0;
+
 
     public static GameManager instance;
 
